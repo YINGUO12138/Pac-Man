@@ -1,6 +1,49 @@
 # Pac-Man
 This is a software engineering course project, and my team and I will try to make a Pac-Man game from scratch
 
+## Project profile
+The idea of our project is to develop a C++ version of the Pac-Man game that will provide players with a classic Pac-Man experience and add some new features and challenges. Players will control Pac-Man to eat all the beans in a maze and avoid obstacles and enemy attacks. The game will consist of multiple levels, each with a different difficulty and challenge, and players will need to complete missions within the allotted time to advance to the next level.
+
+## Vision and a competitive analysis
+Our vision is to be a wildly popular Pac-Man game that provides players with an excellent gaming experience. We will focus on the following areas to achieve our vision:
+
+**1.Interface design:** We will design a friendly, simple and beautiful game interface for players to easily get started.  
+
+**2.Game Mechanics:** We will add some novel mechanics and elements to the game to enhance the playability and fun of the game.  
+
+**3.Game balance:** We will set a reasonable difficulty for the game to make players feel challenged and accomplished.  
+
+**4.User experience:** We will continuously collect user feedback to optimize the game experience and make players happy and happy.  
+
+Competitive analysis shows that while Pac-Man games are popular in the market, most games have been developed in the last few decades and lack novel and innovative gameplay elements. We believe that by adding new game elements and a better graphical interface design, our games will be different and attract more players.  
+
+## Technical approach
+To realize our project idea, we plan to use the following system architectures, technologies, and tools:
+
+**1.System architecture:** We'll use an object-oriented programming approach to encapsulate game elements such as Pac-Man, Beans, Obstacles, Enemies, etc. into classes to better organize and manage the code.
+
+**2.Technology:** We will implement the game using the C++ programming language, the OpenGL graphics library, and the SDL game development library. We will also use graphic design software to design the game's graphical interface.
+
+**3.Tool:** We will use Visual Studio as the development environment and Git for version control and collaborative development.  
+
+## Challenges and risks：
+When developing the C++ Pac-Man project on time, the most serious challenges or risks I foresaw were time management and team collaboration. Because the C++ Pac-Man project requires the implementation of many game elements and logic, such as map design, bean and obstacle generation, Pac-Man and enemy movement, score calculation, and so on, it requires a certain amount of time and effort. At the same time, if you need to collaborate as a team, you need to make sure that all members are on the same page and working together seamlessly.  
+
+**In order to minimize or mitigate these risks, I will take the following actions:**  
+
+
+Develop detailed project plans and timelines to ensure that all tasks and work are completed in a timely manner. At the same time, possible delays or problems need to be taken into account and countermeasures accordingly.  
+
+Use simple, clear code structures and naming conventions whenever possible to make it easier for team members to communicate and collaborate. At the same time, to avoid conflicts and misunderstandings, it is also necessary to establish a unified code style and formatting specifications.  
+
+Regularly check and evaluate the progress and quality of the work of team members, find and solve problems in a timely manner, and ensure the progress and quality of the project.  
+
+Establish a good communication mechanism and workflow, including regular meetings, communication and collaboration, as well as the use of some project management tools and software, such as GitHub, Trello, etc., to facilitate team members to collaborate and track project progress.  
+
+
+Through the above measures, I believe that the risks of time management and team collaboration can be minimized or reduced, and the project can be completed on time, and the quality and user experience can be obtained.  
+
+
 
 ## Software architecture
 
