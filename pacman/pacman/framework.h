@@ -13,3 +13,9 @@
 #include <malloc.h>
 #include <memory.h>
 #include <tchar.h>
+
+
+#include <memory>
+#include <vector>
+#include <algorithm>
+#include <functional>
