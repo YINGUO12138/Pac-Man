@@ -121,15 +121,15 @@ Find more users of relevant age to experience the project and summarize their op
 ##### •	Allow buffer time: When planning, allocate buffer time for possible problems to prevent the plan from being delayed due to unexpected problems.
 
 ### ii. Team structure
-•	Wei Zheyang--programmer: Responsible for translating the game designer's ideas into actual games. Programmers need to code Pac-Man to allow the game to run on a computer.  
+•	**Wei Zheyang--programmer**: Responsible for translating the game designer's ideas into actual games. Programmers need to code Pac-Man to allow the game to run on a computer.  
 
-•	Li Xiang--Game designer: Responsible for designing the game scene and characters, and determine the rules and difficulty level of the game.In Pac-Man, designers need to determine the number and location of beans, the rules of the ghost, the game score system, and more.  
+•	**Li Xiang--Game designer**: Responsible for designing the game scene and characters, and determine the rules and difficulty level of the game.In Pac-Man, designers need to determine the number and location of beans, the rules of the ghost, the game score system, and more.  
 
-•	Lu Zhenghang--Tester: Responsible for testing the game program, identifying and reporting on bugs and other issues, and ensuring the stability and quality of the game program.  
+•	**Lu Zhenghang--Tester**: Responsible for testing the game program, identifying and reporting on bugs and other issues, and ensuring the stability and quality of the game program.  
 
-•	Gu Qian--Art designer: Responsible for drawing the game materials, including characters, maps, items, etc., as well as beautifying the game UI and visual effects.In Pac-Man, the graphic designers need to design the background of the maze, the images of beans and ghosts, and so on.  
+•	**Gu Qian--Art designer**: Responsible for drawing the game materials, including characters, maps, items, etc., as well as beautifying the game UI and visual effects.In Pac-Man, the graphic designers need to design the background of the maze, the images of beans and ghosts, and so on.  
 
-•	Li Xinyu--Copy editor: Responsible for writing the game introduction, instructions, help documents, etc., as well as the text content needed in the game.  
+•	**Li Xinyu--Copy editor**: Responsible for writing the game introduction, instructions, help documents, etc., as well as the text content needed in the game.  
 
 ### iii. Test plan & bugs
 #### •	recovery testing  
